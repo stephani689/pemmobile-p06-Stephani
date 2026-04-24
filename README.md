@@ -1,6 +1,4 @@
 
-<<<<<<< HEAD
-=======
 ## Nama & NIM
 - Nama: Stephani della christin zai
 - NIM:  243303621228
@@ -67,4 +65,4 @@
 4. Scan QR Code dengan Expo Go di HP
 
 
->>>>>>> ff5abef (Update fitur + tambah gambar + README)
+
